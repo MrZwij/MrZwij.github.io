@@ -1,0 +1,67 @@
+body {
+  margin: 25px;
+  background-color: rgb(240,240,240);
+  font-family: arial, sans-serif;
+  font-size: 14px;
+}
+
+.typeimg {
+  width: 45px;
+  height: 45px;
+  float: left;
+}
+
+.title {
+  color: teal;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 0px;
+  line-height: 16px;
+}
+
+.titlecenter {
+  color: maroon;
+  font-size: 12px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 0px;
+  text-align: center;
+  line-height: 12px;
+}
+
+.score {
+  color: indigo;
+  font-size: 24px;
+  font-weight: 900;
+  text-decoration: none;
+  margin-left: 0px;
+  line-height: 24px;
+  text-align: center;
+  vertical-align: text-top;
+}
+
+.book {
+  line-height: 20px;
+  color: black;
+}
+
+.description {
+  font-family: "arial", sans-serif;
+  text-align: justify;
+  font-size: 13px;
+}
+
+.myStatus {
+  float: right;
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.myContainer {
+  padding: 5px;
+  max-width: 500px;
+  margin-top: -10px;
+  margin-bottom: 5px;
+}
