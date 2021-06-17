@@ -1,0 +1,86 @@
+.grid-wide-narrow {
+  display: grid;
+  grid-template-columns: 180px 100px;
+}
+
+.boxacross {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+.title {
+  vertical-align: text-bottom;
+}
+#scorebox {
+  background-color: DarkSlateGray;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  vertical-align: text-top;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#scorenumber {
+  color: eac435;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+#scoretext {
+  color: 03cea4;
+  font-size: 12px;
+  line-height: 13px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.maptitle {
+  color: fb4d3d;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 0px;
+  line-height: 20px;
+}
+
+.booktitle {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: bold;
+  color: black;
+}
+
+.normal {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+.smaller {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 9px;
+}
+
+.playability_detail {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-stretch: normal;
+  background-color: white;
+  border-radius: 3px;
+  margin-top: 5px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  text-align: left;
+  vertical-align: text-top;
+}
+
+
